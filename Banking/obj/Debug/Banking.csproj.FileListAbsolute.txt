@@ -1,0 +1,6 @@
+c:\users\teodor\documents\visual studio 2015\Projects\Banking\Banking\bin\Debug\Banking.exe.config
+c:\users\teodor\documents\visual studio 2015\Projects\Banking\Banking\bin\Debug\Banking.exe
+c:\users\teodor\documents\visual studio 2015\Projects\Banking\Banking\bin\Debug\Banking.pdb
+c:\users\teodor\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+c:\users\teodor\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.exe
+c:\users\teodor\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.pdb
